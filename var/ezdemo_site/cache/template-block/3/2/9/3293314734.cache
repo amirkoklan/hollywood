@@ -1,0 +1,171 @@
+
+<h2>Mein aktuellster Content</h2>
+
+<table class="list" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+        <th>Name</th>
+        <th>Typ</th>
+        <th>Geändert</th>
+        <th class="tight"></th>
+    </tr>
+            <tr class="bglight">
+            <td>
+                <a href="/hollywood/index.php/site_admin/Getting-Started" title="Getting Started">Getting Started</a>
+            </td>
+            <td>
+                Landing Page
+            </td>
+            <td>
+                28.03.2012
+            </td>
+            <td>
+                            <a href="/hollywood/index.php/site_admin/content/edit/58/f/ger-DE">
+                    <img src="/hollywood/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="Bearbeiten" title="&lt;Getting Started&gt; bearbeiten." />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bgdark">
+            <td>
+                <a href="/hollywood/index.php/site_admin/Getting-Started/Selected-Features/Getting-Started-with-eZ-Publish-Etna" title="Getting Started with eZ Publish Etna">Getting Started with eZ Pub...</a>
+            </td>
+            <td>
+                Article
+            </td>
+            <td>
+                28.03.2012
+            </td>
+            <td>
+                            <a href="/hollywood/index.php/site_admin/content/edit/69/f/ger-DE">
+                    <img src="/hollywood/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="Bearbeiten" title="&lt;Getting Started with eZ Publish Etna&gt; bearbeiten." />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bglight">
+            <td>
+                <a href="/hollywood/index.php/site_admin/Getting-Started/Resources/Demos-and-Videos" title="Demos and Videos">Demos and Videos</a>
+            </td>
+            <td>
+                Article
+            </td>
+            <td>
+                28.03.2012
+            </td>
+            <td>
+                            <a href="/hollywood/index.php/site_admin/content/edit/63/f/ger-DE">
+                    <img src="/hollywood/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="Bearbeiten" title="&lt;Demos and Videos&gt; bearbeiten." />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bgdark">
+            <td>
+                <a href="/hollywood/index.php/site_admin/Getting-Started/Resources/Technical-Documentation" title="Technical Documentation">Technical Documentation</a>
+            </td>
+            <td>
+                Article
+            </td>
+            <td>
+                28.03.2012
+            </td>
+            <td>
+                            <a href="/hollywood/index.php/site_admin/content/edit/62/f/ger-DE">
+                    <img src="/hollywood/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="Bearbeiten" title="&lt;Technical Documentation&gt; bearbeiten." />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bglight">
+            <td>
+                <a href="/hollywood/index.php/site_admin/Getting-Started/Resources/eZ-Publish-Tutorials" title="eZ Publish Tutorials">eZ Publish Tutorials</a>
+            </td>
+            <td>
+                Article
+            </td>
+            <td>
+                28.03.2012
+            </td>
+            <td>
+                            <a href="/hollywood/index.php/site_admin/content/edit/60/f/ger-DE">
+                    <img src="/hollywood/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="Bearbeiten" title="&lt;eZ Publish Tutorials&gt; bearbeiten." />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bgdark">
+            <td>
+                <a href="/hollywood/index.php/site_admin/Getting-Started/Resources/eZ-User-Documentation" title="eZ User Documentation">eZ User Documentation</a>
+            </td>
+            <td>
+                Article
+            </td>
+            <td>
+                28.03.2012
+            </td>
+            <td>
+                            <a href="/hollywood/index.php/site_admin/content/edit/61/f/ger-DE">
+                    <img src="/hollywood/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="Bearbeiten" title="&lt;eZ User Documentation&gt; bearbeiten." />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bglight">
+            <td>
+                <a href="/hollywood/index.php/site_admin/Getting-Started/Selected-Features/Multivariate-Testing" title="Multivariate Testing">Multivariate Testing</a>
+            </td>
+            <td>
+                Article
+            </td>
+            <td>
+                28.03.2012
+            </td>
+            <td>
+                            <a href="/hollywood/index.php/site_admin/content/edit/67/f/ger-DE">
+                    <img src="/hollywood/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="Bearbeiten" title="&lt;Multivariate Testing&gt; bearbeiten." />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bgdark">
+            <td>
+                <a href="/hollywood/index.php/site_admin/Getting-Started/Selected-Features/Improved-Online-Analytics" title="Improved Online Analytics">Improved Online Analytics</a>
+            </td>
+            <td>
+                Article
+            </td>
+            <td>
+                28.03.2012
+            </td>
+            <td>
+                            <a href="/hollywood/index.php/site_admin/content/edit/68/f/ger-DE">
+                    <img src="/hollywood/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="Bearbeiten" title="&lt;Improved Online Analytics&gt; bearbeiten." />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bglight">
+            <td>
+                <a href="/hollywood/index.php/site_admin/Getting-Started/Selected-Features" title="Selected Features">Selected Features</a>
+            </td>
+            <td>
+                Folder
+            </td>
+            <td>
+                28.03.2012
+            </td>
+            <td>
+                            <a href="/hollywood/index.php/site_admin/content/edit/64/f/ger-DE">
+                    <img src="/hollywood/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="Bearbeiten" title="&lt;Selected Features&gt; bearbeiten." />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bgdark">
+            <td>
+                <a href="/hollywood/index.php/site_admin/Getting-Started/Resources" title="Resources">Resources</a>
+            </td>
+            <td>
+                Folder
+            </td>
+            <td>
+                28.03.2012
+            </td>
+            <td>
+                            <a href="/hollywood/index.php/site_admin/content/edit/59/f/ger-DE">
+                    <img src="/hollywood/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="Bearbeiten" title="&lt;Resources&gt; bearbeiten." />
+                </a>
+                        </td>
+        </tr>
+    </table>

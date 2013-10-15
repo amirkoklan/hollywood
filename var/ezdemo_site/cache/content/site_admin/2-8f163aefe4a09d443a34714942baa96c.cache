@@ -1,0 +1,743 @@
+a:10:{s:7:"content";s:28788:"<div class="content-view-full">
+ <div class="class-landing_page">
+
+<div class="content-navigation">
+
+
+<div class="context-block">
+
+<div class="box-header">
+
+
+<h1 class="context-title"><a href="/hollywood/index.php/site_admin/class/view/21" onclick="ezpopmenu_showTopLevel( event, 'ClassMenu', ez_createAArray( new Array( '%classID%', 21, '%objectID%', 57, '%nodeID%', 2, '%currentURL%', '', '%languages%', [{'locale':'eng-GB','name':'English (United Kingdom)'}] ) ), 'Landing Page', ['class-createnodefeed', 'class-removenodefeed'], -1 ); return false;"><img class="transparent-png-icon" src="/hollywood/share/icons/crystal-admin/32x32/mimetypes/empty.png" width="32" height="32" alt="Landing Page" title="Landing Page" /></a>&nbsp;Home&nbsp;[Landing Page]&nbsp;</h1>
+
+<div class="header-mainline"></div>
+
+</div>
+
+
+<div class="box-content">
+
+<div class="context-information">
+<p class="left modified">Zuletzt geändert: 14.09.2010 08:46, <a href="/hollywood/index.php/site_admin/Users/Administrator-users/Amir-Koklan">Amir Koklan</a> (Knoten ID: 2, Objekt ID: 57)</p>
+<p class="right translation">German&nbsp;<img src="/hollywood/share/icons/flags/ger-DE.gif" width="18" height="12" alt="" style="vertical-align: middle;" /></p>
+<div class="break"></div>
+</div>
+
+<div id="window-controls" class="tab-block">
+                            <div class="button-left"><a id="maincontent-hide" class="show-hide-tabs" href="/hollywood/index.php/site_admin/user/preferences/set/admin_navigation_content/0" title="Beim Browsen der Inhalte &quot;Reiter&quot; als Standard deaktivieren.">-</a></div>
+<ul class="tabs tabs-by-cookie">
+    
+    <li id="node-tab-view" class="first selected">
+                    <a href="/hollywood/index.php/site_admin/(tab)/view" title="Zeige vereinfachte Inhaltsansicht.">Ansicht</a>
+            </li>
+
+    
+    <li id="node-tab-details" class="middle">
+                    <a href="/hollywood/index.php/site_admin/(tab)/details" title="Details anzeigen.">Details</a>
+            </li>
+
+    
+            <li id="node-tab-translations" class="middle">
+                    <a href="/hollywood/index.php/site_admin/(tab)/translations" title="Verfügbare Übersetzungen anzeigen.">Übersetzungen (1)</a>
+            </li>
+        
+    
+    <li id="node-tab-locations" class="middle">
+                    <a href="/hollywood/index.php/site_admin/(tab)/locations" title="Orts-Übersicht anzeigen.">Orte (1)</a>
+            </li>
+
+    
+    <li id="node-tab-relations" class="middle">
+                    <a href="/hollywood/index.php/site_admin/(tab)/relations" title="Übersicht der Objekt Verknüpfungen anzeigen.">Verknüpfungen (0)</a>
+            </li>
+
+    
+    <li id="node-tab-ordering" class="last">
+                    <a href="/hollywood/index.php/site_admin/(tab)/ordering" title="Zeige veröffentlichte Bestellansicht.">Anordnung</a>
+            </li>
+            </ul>
+<div class="float-break"></div>
+<div class="tabs-content">
+    
+<div id="node-tab-view-content" class="tab-content selected">
+    
+    
+
+
+    <div class="block">
+            <label>Name:</label>
+        
+Home        </div>    <div class="block">
+            <label>Layout:</label>
+        <div class="zone-layout-2zoneslayout1 row">
+    <div class="span8">
+        <section class="content-view-block">
+                                        
+    <div id="address-865346aabbcc48a9839274cc554868be-4efd68496edd8184aade729b4d2ee17b">
+    
+<h2>Block: Campaign</h2>
+
+<ul>    <li>Getting Started with eZ Publish Etna</li></ul>
+    </div>
+    <div class="block-separator"></div>
+                            
+    <div id="address-865346aabbcc48a9839274cc554868be-bffec84af43985679e30e6ff6d79c19b">
+    
+<h2>Block: Content Grid</h2>
+
+<ul>    <li>Multivariate Testing</li>    <li>Search Result Clustering with eZ Find</li>    <li>New York City</li>    <li>Amazon Jungle</li></ul>
+    </div>
+    <div class="block-separator"></div>
+                            
+    <div id="address-865346aabbcc48a9839274cc554868be-d769ae69f693b76429a731a8ce475e23">
+    
+<h2>Block: Gallery</h2>
+
+<ul>    <li>River Boat</li>    <li>Amazon Side River</li>    <li>Aligator</li>    <li>Bird Island</li>    <li>Heron in the Water</li>    <li>Hat on a Stick</li>    <li>Turtles</li>    <li>Flying Bird</li></ul>
+    </div>
+    <div class="block-separator"></div>
+                                </section>
+    </div>
+    <div class="span4">
+        <aside>
+            <section class="content-view-block content-view-aside">
+                                                    
+    <div id="address-f742abffba08fc849b6e80dec769a74c-cd58c813f7463484f22a2168a44cdcc4">
+    
+<h2>Block: Highlighted Item</h2>
+
+<ul>    <li>Improved Online Analytics</li></ul>
+    </div>
+    <div class="block-separator"></div>
+                                    
+    <div id="address-f742abffba08fc849b6e80dec769a74c-9481d2b1810c928ded55e94b0ae13647">
+    
+<h2>Block: Content Grid</h2>
+
+<ul>    <li>Street Crossing</li>    <li>City View</li>    <li>New York Cab</li></ul>
+    </div>
+    <div class="block-separator"></div>
+                                    
+    <div id="address-f742abffba08fc849b6e80dec769a74c-b0d7b1fae15381576e13e5bd1480f555">
+    
+<h2>Block: Feed reader</h2>
+
+<ul></ul>
+    </div>
+    <div class="block-separator"></div>
+                                    
+    <div id="address-f742abffba08fc849b6e80dec769a74c-530f34a56860389349bd37e74bc095a7">
+    
+<h2>Block: Video</h2>
+
+<ul>    <li>Piranha Fishing</li></ul>
+    </div>
+    <div class="block-separator"></div>
+                                    
+    <div id="address-f742abffba08fc849b6e80dec769a74c-27d176fb3baf2ab9dea2b1f98270e701">
+    
+<h2>Block: Tag cloud</h2>
+
+<ul></ul>
+    </div>
+    <div class="block-separator"></div>
+                                            </section>
+        </aside>
+    </div>
+</div>
+        </div><div class="break"></div>
+</div>
+
+
+<div id="node-tab-details-content" class="tab-content hide">
+    <div class="block">
+
+
+<table class="list" cellspacing="0" summary="Knoten und Objekt Details wie Ersteller, Erstellungsdatum, zugewiesene Sektionen, Anzahl der Versionen und Übersetzungen, Knoten ID und Objekt ID.">
+<tr>
+    <th>Ersteller</th>
+    <th>Erstellt</th>
+    <th>Sektion</th>
+    <th class="tight">Versionen</th>
+    <th class="tight">Übersetzungen</th>
+    <th class="tight">Knoten ID</th>
+    <th class="tight">Objekt ID</th>
+</tr>
+<tr class="bglight">
+    <td><a href="/hollywood/index.php/site_admin/Users/Administrator-users/Amir-Koklan">Amir Koklan</a></td>
+    <td>19.11.2007 13:54</td>
+    <td>
+    <form name="changesection" id="changesection" method="post" action="/hollywood/index.php/site_admin/content/edit/57">
+    <input type="hidden" name="RedirectRelativeURI" value="" />
+    <input type="hidden" name="ChangeSectionOnly" value="1" />
+
+    <select id="selected-section-id" name="SelectedSectionId">
+                    <option value="5">Design</option>
+                            <option value="3">Media</option>
+                            <option value="6">Restricted</option>
+                            <option value="4">Setup</option>
+                            <option value="1" selected="selected">Standard</option>
+                            <option value="2">Users</option>
+                </select>
+    <input id="tab-details-set-section" type="submit" value="Setzen" name="SectionEditButton" class="button" />
+    </form>
+
+    </td>
+    <td class="number" align="right">1</td>
+    <td class="number" align="right">1</td>
+    <td class="number" align="right">2</td>
+    <td class="number" align="right">57</td>
+</tr>
+</table>
+</div>
+
+<div class="block">
+<table class="list" cellspacing="0" summary="Node Remote ID and Object Remote ID">
+    <tr>
+        <th>Node Remote ID</th>
+        <th>Object Remote ID</th>
+    </tr>
+    <tr>
+         <td>f3e90596361e31d496d4026eb624c983</td>
+         <td>8a9c9c761004866fb458d89910f52bee</td>
+    </tr>
+</table>
+</div>
+
+<br />
+
+<div class="block">
+<h3>Zustand des Objekts</h3>
+
+
+<form name="statesform" method="post" action="/hollywood/index.php/site_admin/state/assign">
+<input type="hidden" name="ObjectID" value="57" />
+<input type="hidden" name="RedirectRelativeURI" value="" />
+
+<table id="tab-details-states-list" class="list" cellspacing="0" summary="Zustände und ihre Gruppen für das aktuelle Objekt.">    <tr class="bgdark">
+    <td colspan="2">
+    <em>Es wurde kein Objekt Status konfiguriert. Dies können Sie <a href="/hollywood/index.php/site_admin/state/groups"> hier machen </a>.</em>
+    </td>
+    </tr></table>
+
+<div class="block">
+<div class="button-left">
+        <input type="submit" id="tab-details-set-states" value="Zustände einstellen" name="AssignButton" class="button-disabled" disabled="disabled" title="Keiner der Zustände kann dem Content Objekt von Ihnen zugewiesen werden, da Ihnen die Berechtigung fehlt."/>
+    </div>
+<div class="break"></div>
+</div>
+
+</form>
+</div>
+<script type="text/javascript">
+
+(function( $ )
+{
+    $('#tab-details-states-list select').change(function()
+    {
+        var btn = $('#tab-details-set-states');
+        if ( !btn.attr('disabled') )
+        {
+            btn.removeClass('button').addClass('defaultbutton');
+        }
+    });
+    $('#selected-section-id').change(function()
+    {
+        var btn = $('#tab-details-set-section');
+        if ( !btn.attr('disabled') )
+        {
+            btn.removeClass('button').addClass('defaultbutton');
+        }
+    });
+})( jQuery );
+
+</script>
+<div class="break"></div>
+</div>
+
+
+<div id="node-tab-translations-content" class="tab-content hide">
+    
+<form name="translationsform" method="post" action="/hollywood/index.php/site_admin/content/translation">
+<input type="hidden" name="ContentNodeID" value="2" />
+<input type="hidden" name="ContentObjectID" value="57" />
+<input type="hidden" name="ViewMode" value="full" />
+<input type="hidden" name="ContentObjectLanguageCode" value="" />
+
+<fieldset>
+<legend>Bestehende Übersetzungen</legend>
+
+<table id="tab-translations-list" class="list" cellspacing="0" summary="Liste der Übersetzungen des aktuellen Objkts.">
+<tr>
+    <th class="tight"><img src="/hollywood/design/admin2/images/toggle-button-16x16.gif" width="16" height="16" alt="Auswahl umkehren." title="Auswahl umkehren." onclick="ezjs_toggleCheckboxes( document.translationsform, 'LanguageID[]' ); return false;"/></th>
+    <th>Sprache</th>
+    <th>Örtlichkeit</th>
+    <th class="tight">Hauptort</th>
+    <th class="tight">&nbsp;</th>
+</tr>
+
+<tr class="bglight">
+
+
+<td>
+    <input type="checkbox" name="LanguageID[]" value="2" disabled="disabled" />
+</td>
+
+
+<td>
+<img src="/hollywood/share/icons/flags/ger-DE.gif" width="18" height="12" alt="ger-DE" />
+&nbsp;<b><a href="/hollywood/index.php/site_admin/(language)/ger-DE" title="Betrachte Übersetzung.">Deutsch (Deutschland)</a></b></td>
+
+
+<td>ger-DE</td>
+
+
+<td>
+
+<input type="radio"  checked="checked" class="main-translation-radio main-translation-radio-initial" name="InitialLanguageID" value="2" title="Verwenden Sie diese Optionsfelder, um die gewünschte Hauptsprache auszuwählen." />
+
+</td>
+
+
+<td>
+
+<a href="/hollywood/index.php/site_admin/content/edit/57/f/ger-DE"><img src="/hollywood/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="In der Sprache &lt;German&gt; bearbeiten." title="In der Sprache &lt;German&gt; bearbeiten." /></a>
+
+</td>
+
+</tr>
+</table>
+
+<div class="block">
+<div class="button-left">        <input class="button-disabled" type="submit" name="RemoveTranslationButton" value="Ausgewähltes entfernen" title="Keine entfernbare Sprache vorhanden." disabled="disabled" />
+    </div>
+
+<div class="button-right">        <input class="button-disabled" type="submit" name="UpdateInitialLanguageButton" value="Als Haupt setzen" disabled="disabled" title="Sie können die Hauptsprache nicht ändern, weil das Objekt noch nicht in andere Sprachen übersetzt wurde." />
+    </div>
+
+<div class="break"></div>
+</div>
+
+</fieldset>
+
+
+<div class="block">
+
+<div class="block">
+<input id="tab-translations-alwaysavailable-checkbox" type="checkbox" name="AlwaysAvailable" value="1" checked="checked" /> Die Hauptsprache verwenden, wenn keine vorrangige Übersetzung vorhanden ist.
+</div>
+
+<div class="block">    <input id="tab-translations-alwaysavailable-btn" class="button" type="submit" name="UpdateAlwaysAvailableButton" value="Aktualisieren" title="Verwenden Sie diese Schaltfläche, um die Einstellungen des obigen Kontrollkästchens zu speichern." />
+    <script type="text/javascript">
+    
+    (function( $ )
+    {
+        $('#tab-translations-alwaysavailable-checkbox').change(function()
+        {
+            $('#tab-translations-alwaysavailable-btn').removeClass('button').addClass('defaultbutton');
+        });
+    })( jQuery );
+    
+    </script></div>
+</div>
+
+
+</form>
+<div class="break"></div>
+</div>
+
+
+<div id="node-tab-locations-content" class="tab-content hide">
+    
+<form name="locationsform" method="post" action="/hollywood/index.php/site_admin/content/action">
+<input type="hidden" name="ContentNodeID" value="2" />
+<input type="hidden" name="ContentObjectID" value="57" />
+<input type="hidden" name="ViewMode" value="full" />
+<input type="hidden" name="ContentObjectLanguageCode" value="" />
+
+<table id="tab-locations-list" class="list" cellspacing="0" summary="Platzierungen (aka Knoten) des aktuellen Objekts.">
+<tr>
+    <th class="tight"><img src="/hollywood/design/admin2/images/toggle-button-16x16.gif" width="16" height="16" alt="Auswahl umkehren." title="Auswahl umkehren." onclick="ezjs_toggleCheckboxes( document.locationsform, 'LocationIDSelection[]' ); return false;"/></th>
+    <th class="wide">Ort</th>
+    <th class="tight">Unterelemente</th>
+
+    <th class="tight">Sichtbarkeit</th>
+    <th class="tight">Hauptort</th>
+</tr>    
+<tr class="bglight">
+
+    
+    <td>
+            <input type="checkbox" name="LocationIDSelection[]" value="2" disabled="disabled" title="Dieser Ort kann nicht entfernt werden, da Sie entweder keine Rechte dazu besitzen oder weil das es gerade angezeigt wird." />
+        </td>
+
+    
+        <td> <a href="/hollywood/index.php/site_admin">Home</a></td>
+    
+
+    
+    <td class="number" align="right">6</td>
+
+    
+
+
+    
+    <td class="nowrap">
+            Sichtbar
+        [ <a href="/hollywood/index.php/site_admin/content/hide/2" title="Ort und untergeordnete Einträge ausblenden." >Verstecken</a> ]
+        </td>
+
+    
+    <td>
+
+    
+        <input type="radio" checked="checked" name="MainAssignmentCheck" value="2" disabled="disabled" title="Das aktuelle Element hat nur einen Ort, das ist standardmäßig der Hauptort." />
+    
+    
+    </td>
+</tr></table>
+
+
+<input type="hidden" name="HasMainAssignment" value="1" />
+
+
+<div class="block">
+<div class="button-left">
+        <input class="button-disabled" type="submit" name="RemoveAssignmentButton" value="Ausgewähltes entfernen" title="Es gibt keinen Ort, der entfernt werden könnte." disabled="disabled" />
+    
+        <input class="button-disabled" type="submit" name="AddAssignmentButton" value="Orte hinzufügen" title="Es ist nicht möglich Orte zu einem obersten Knotenpunkt hinzuzufügen." disabled="disabled" />
+    </div>
+
+<div class="button-right">    <input class="button-disabled" type="submit" name="UpdateMainAssignmentButton" value="Als Haupt setzen" disabled="disabled" title="Sie können den Hauptort nicht setzten, da nur ein Ort vorhanden ist." /></div>
+
+<div class="break"></div>
+</div>
+
+</form><div class="break"></div>
+</div>
+
+
+<div id="node-tab-relations-content" class="tab-content hide">
+    
+<table class="list" cellspacing="0" summary="Liste mit Objektverknüpfungen des aktuellen Objekts.">
+<tr>
+    <th>Verknüpfte Objekte (0)</th>
+    </tr>    <tr><td>Mit dem aktuellen Eintrag sind keine anderen Objekte verknüpft.</td></tr></table>
+
+<br />
+
+
+<table class="list" cellspacing="0" summary="Liste der Objektverknüpfungen umdrehen.">
+<tr>
+    <th>Verknüpfungen umdrehen (0)</th>
+    </tr>    <tr><td>Dieses Objekt wird nicht von anderen Objekten verwendet.</td></tr></table>
+
+ 
+<div class="break"></div>
+</div>
+
+
+<div id="node-tab-ordering-content" class="tab-content hide">
+    
+<form name="ordering" method="post" action="/hollywood/index.php/site_admin/content/action">
+<input type="hidden" name="ContentNodeID" value="2" />
+<div class="block">    
+    <fieldset>
+        <legend>Sortierung nach</legend>
+    
+            
+                                            <input type="hidden" name="ContentObjectID" value="57" />
+                
+        <div class="block">Sortiermethode für die Unterelemente hier einzustellen.</div>
+        <select id="ezasi-sort-field" name="SortingField" title="Sortiermethode für die Unterelemente hier einzustellen.">
+                    <option value="6" >Klassen-Identifikator</option>
+                    <option value="7" >Klassenname</option>
+                    <option value="5" >Tiefe</option>
+                    <option value="3" >Geändert</option>
+                    <option value="9" >Name</option>
+                    <option value="1" >Pfad</option>
+                    <option value="8" selected="selected">Priorität</option>
+                    <option value="2" >Veröffentlicht</option>
+                    <option value="4" >Sektion</option>
+                </select>
+    
+        <select id="ezasi-sort-order" name="SortingOrder" title="Sortiermethode für die Unterelemente hier einzustellen.">
+            <option value="0">Absteigend</option>
+            <option value="1" selected="selected">Aufsteigend</option>
+        </select>
+    
+        <input  id="ezasi-sort-set" class="button" type="submit" name="SetSorting" value="Setzen" title="Sortiermethode für die Unterelemente hier einzustellen."  />
+    
+            </fieldset>
+</div>
+</form>
+
+
+
+<script type="text/javascript">
+jQuery('#ezasi-sort-field, #ezasi-sort-order').each( function(){
+    jQuery( this ).attr( 'initial', this.value );
+} ).change(function(){
+    var t = $(this), o = $(this.id === 'ezasi-sort-field' ? '#ezasi-sort-order' : '#ezasi-sort-field'), s = $('#ezasi-sort-set');
+    // signal in gui if user needs to save this or not
+    if ( t.val() === t.attr('initial') && o.val() === o.attr('initial') )
+        s.removeClass('defaultbutton').addClass('button');
+    else
+        s.removeClass('button').addClass('defaultbutton');
+});
+</script>
+
+<div class="break"></div>
+</div>
+</div>
+
+</div>
+
+</div>
+
+<div class="controlbar">
+
+
+<form method="post" action="/hollywood/index.php/site_admin/content/action">
+<input type="hidden" name="TopLevelNode" value="2" />
+<input type="hidden" name="ContentNodeID" value="2" />
+<input type="hidden" name="ContentObjectID" value="57" />
+
+<div class="button-left">
+<div class='block'>
+                <select name="ContentObjectLanguageCode">
+                                   <option value="ger-DE" selected="selected">Deutsch (Deutschland)</option>
+                                        <option value="">Neue Übersetzung</option>
+                        </select>
+        <input class="button" type="submit" name="EditButton" value="Bearbeiten" title="Den Inhalt dieses Eintrags bearbeiten." />
+    <input class="button-disabled" type="submit" name="MoveNodeButton" value="Verschieben" title="Sie haben nicht die erforderlichen Rechte dieses Element an einen anderen Ort zu verschieben." disabled="disabled" />
+    <input class="button-disabled" type="submit" name="ActionRemove" value="Entfernen" title="Sie besitzen nicht die notwendigen Rechte, um dieses Element zu entfernen." disabled="disabled" /></div>
+</div>
+
+<div class="button-right">
+	<p class='versions'>
+    
+    <a href="/hollywood/index.php/site_admin/content/history/57" title="Versionen des derzeitigen Objekts ansehen und verwalten (hinzufügen/entfernen).">Versionen verwalten</a>
+    </p>
+</div>
+
+<div class="float-break"></div>
+</form>
+
+</div>
+
+
+</div>
+
+
+<div id="content-view-children">    <div class="content-view-children">
+
+
+
+<!-- Children START -->
+
+<div class="context-block">
+<form name="children" method="post" action="/hollywood/index.php/site_admin/content/action">
+<input type="hidden" name="ContentNodeID" value="2" />
+<input type="hidden" name="ContentObjectID" value="57" />
+    
+
+<div class="box-header">
+
+    <h2 class="context-title"><a href="/hollywood/index.php/site_admin" title="Eine Ebene nach oben."><img src="/hollywood/design/admin2/images/up-16x16-grey.png" width="16" height="16" alt="Eine Ebene nach oben." title="Eine Ebene nach oben." /></a>&nbsp;Untergeordnete Einträge (6)</h2>
+
+</div>
+
+<div class="box-content">
+
+
+
+<div class="context-toolbar">
+<div class="float-break"></div>
+</div>
+
+    
+    
+    
+    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+    <input type="hidden" name="NodeID" value="2" />
+
+    
+    
+
+<script type="text/javascript">
+(function() {
+
+
+var availableLanguages = {'ger-DE': 'German','eng-GB': 'English (United Kingdom)'};
+
+var icons = {'ger-DE': '/hollywood/share/icons/flags/ger-DE.gif','eng-GB': '/hollywood/share/icons/flags/eng-GB.gif'};
+
+var vcols = {    ezcontentnavigationpart : 'checkbox;crank;name;published_date;translations;priority'.split(';'),
+    ezmedianavigationpart : 'checkbox;crank;thumbnail;name;hidden_status_string;class_name'.split(';'),
+    ezusernavigationpart : 'checkbox;crank;name;creator;published_date'.split(';')};
+
+var confObj = {
+    sortKey: "priority",
+    dataSourceURL: "/hollywood/index.php/site_admin/ezjscore/call/ezjscnode::subtree::2",
+    editPrefixURL: "/hollywood/index.php/site_admin/content/edit",
+    rowsPrPage: 25,
+    sortOrder: 1,
+    nameFilter: '',
+    defaultShownColumns: vcols,
+    navigationPart: "ezcontentnavigationpart",
+    cookieName: "eZSubitemColumns",
+    cookieSecure: false,
+    cookieDomain: "localhost:8080",
+    languages: availableLanguages,
+    classesString: [{"classID":16,"name":"Article"},{"classID":33,"name":"Banner"},{"classID":17,"name":"Blog"},{"classID":18,"name":"Blog post"},{"classID":13,"name":"Comment"},{"classID":31,"name":"Event"},{"classID":32,"name":"Event calendar"},{"classID":20,"name":"Feedback form"},{"classID":24,"name":"File"},{"classID":1,"name":"Folder"},{"classID":28,"name":"Forum"},{"classID":30,"name":"Forum reply"},{"classID":29,"name":"Forum topic"},{"classID":34,"name":"Forums"},{"classID":27,"name":"Gallery"},{"classID":25,"name":"Image"},{"classID":21,"name":"Landing Page"},{"classID":26,"name":"Link"},{"classID":23,"name":"Poll"},{"classID":19,"name":"Product"},{"classID":35,"name":"Video"},{"classID":22,"name":"Wiki Page"}],
+    flagIcons: icons
+}
+
+var labelsObj = {
+
+    DATA_TABLE: {
+                        msg_loading: "Lade ..."
+                    },
+
+    DATA_TABLE_COLS: {
+                        thumbnail: "Miniaturansicht",
+                        name: "Name",
+                        visibility: "Sichtbarkeit",
+                        type: "Typ",
+                        modifier: "Bearbeiter",
+                        modified: "Geändert",
+                        published: "Veröffentlicht",
+                        section: "Sektion",
+                        translations: "Übersetzungen",
+                        priority: "Priorität",
+                        nodeid: "Knoten ID",
+                        objectid: "Objekt ID",
+                        noderemoteid: "Knoten remote ID",
+                        objectremoteid: "Objekt remote ID",
+                        objectstate: "Object state"
+                    },
+
+    TABLE_OPTIONS: {
+                        header: "Einstellungen",
+                        header_noipp: "Anzahl der Elemente pro Seite:",
+                        header_vtc: "Sichtbare Tabellenspalten:",
+                        button_close: "Close"
+                   },
+
+    ACTION_BUTTONS: {
+                        select: "Auswählen",
+                        select_sav: "Alle sichtbaren Einträge auswählen",
+                        select_sn: "Keine auswählen",
+                        select_inv: "Auswahl umkehren",
+                        create_new: "Neu erstellen",
+                        more_actions: "Weitere Aktionen",
+                        more_actions_rs: "Ausgewähltes entfernen",
+                        more_actions_ms: "Ausgewähltes verschieben",
+                        more_actions_no: "Benutzen Sie die Auswahlkästchen, um weitere Elemente auszuwählen.",
+                        table_options: "Einstellungen",
+                        first_page: "&laquo;&nbsp;Anfang",
+                        previous_page: "&lsaquo;&nbsp;zurück",
+                        next_page: "weiter&nbsp;&rsaquo;",
+                        last_page: "Ende&nbsp;&raquo;"
+                    }
+};
+                
+    
+    var createGroups = [
+
+            "Content"
+                    ,
+                "Setup"
+                    ,
+                "Media"
+                    ,
+                "Users"
+            
+    ];
+
+    var createOptions = [
+
+            [
+                                { text: "Article", value: 16 }
+                                ,                        { text: "Banner", value: 33 }
+                                ,                        { text: "Blog", value: 17 }
+                                ,                        { text: "Blog post", value: 18 }
+                                ,                        { text: "Comment", value: 13 }
+                                ,                        { text: "Event", value: 31 }
+                                ,                        { text: "Event calendar", value: 32 }
+                                ,                        { text: "Feedback form", value: 20 }
+                                ,                        { text: "Folder", value: 1 }
+                                ,                        { text: "Forum", value: 28 }
+                                ,                        { text: "Forum reply", value: 30 }
+                                ,                        { text: "Forum topic", value: 29 }
+                                ,                        { text: "Forums", value: 34 }
+                                ,                        { text: "Gallery", value: 27 }
+                                ,                        { text: "Landing Page", value: 21 }
+                                ,                        { text: "Link", value: 26 }
+                                ,                        { text: "Poll", value: 23 }
+                                ,                        { text: "Product", value: 19 }
+                                ,                        { text: "Wiki Page", value: 22 }
+                                        ]
+                    ,
+                [
+                                { text: "Common ini settings", value: 14 }
+                                ,                        { text: "Template look", value: 15 }
+                                        ]
+                    ,
+                [
+                                { text: "File", value: 24 }
+                                ,                        { text: "Image", value: 25 }
+                                ,                        { text: "Video", value: 35 }
+                                        ]
+                    ,
+                [
+                                { text: "User", value: 4 }
+                                ,                        { text: "User group", value: 3 }
+                                        ]
+                ];
+
+
+YUILoader.require(['datatable', 'button', 'container', 'cookie', 'element']);
+YUILoader.onSuccess = function() {
+    sortableSubitems.init(confObj, labelsObj, createGroups, createOptions);
+};
+var options = [];
+YUILoader.insert(options, 'js');
+
+})();
+</script>
+
+<div id="action-controls-container">
+    <div id="action-controls"></div>
+    <div id="tpg"></div>
+</div>
+<div id="content-sub-items-list" class="content-navigation-childlist"></div>
+<div id="bpg"></div>
+
+<div id="to-dialog-container"></div>
+
+
+
+    <div class="context-toolbar">
+        </div>
+
+</div>
+
+</form>
+
+</div>
+
+
+
+
+<!-- Children END -->
+</div>
+</div>
+
+</div>
+
+ </div>
+</div>";s:15:"view_parameters";a:5:{s:6:"offset";b:0;s:4:"year";b:0;s:5:"month";b:0;s:3:"day";b:0;s:10:"namefilter";b:0;}s:4:"path";a:1:{i:0;a:4:{s:4:"text";s:4:"Home";s:3:"url";b:0;s:9:"url_alias";b:0;s:7:"node_id";s:1:"2";}}s:10:"title_path";a:1:{i:0;a:3:{s:4:"text";s:4:"Home";s:3:"url";b:0;s:9:"url_alias";b:0;}}s:10:"section_id";s:1:"1";s:7:"node_id";s:1:"2";s:15:"navigation_part";s:23:"ezcontentnavigationpart";s:12:"content_info";a:24:{s:9:"object_id";s:2:"57";s:7:"node_id";s:1:"2";s:14:"parent_node_id";s:1:"1";s:8:"class_id";s:2:"21";s:16:"class_identifier";s:12:"landing_page";s:9:"remote_id";s:32:"8a9c9c761004866fb458d89910f52bee";s:14:"node_remote_id";s:32:"f3e90596361e31d496d4026eb624c983";s:6:"offset";b:0;s:8:"viewmode";s:4:"full";s:26:"navigation_part_identifier";s:23:"ezcontentnavigationpart";s:10:"node_depth";s:1:"1";s:9:"url_alias";s:0:"";s:16:"current_language";s:6:"ger-DE";s:13:"language_mask";s:1:"3";s:12:"main_node_id";s:1:"2";s:19:"main_node_url_alias";b:0;s:19:"persistent_variable";a:1:{s:8:"js_files";a:3:{i:0;s:12:"node_tabs.js";i:1;s:11:"ezjsc::yui2";i:2;s:27:"ezajaxsubitems_datatable.js";}}s:11:"class_group";b:0;s:5:"state";a:1:{i:2;s:1:"1";}s:16:"state_identifier";a:1:{i:0;s:18:"ez_lock/not_locked";}s:15:"parent_class_id";s:1:"1";s:23:"parent_class_identifier";s:6:"folder";s:21:"parent_node_remote_id";s:32:"629709ba256fe317c3ddcee35453a96a";s:23:"parent_object_remote_id";s:32:"a56964d6c8b625991ce3e552e354a2cf";}s:13:"template_list";a:24:{i:0;s:42:"design/admin2/templates/node/view/full.tpl";i:1;s:53:"design/admin2/templates/infocollection_validation.tpl";i:2;s:43:"design/admin2/templates/window_controls.tpl";i:3;s:53:"design/admin2/templates/window_controls_extratabs.tpl";i:4;s:35:"design/admin2/templates/windows.tpl";i:5;s:35:"design/admin2/templates/preview.tpl";i:6;s:51:"design/admin2/templates/node/view/admin_preview.tpl";i:7;s:60:"design/standard/templates/content/datatype/view/ezstring.tpl";i:8;s:75:"extension/ezflow/design/standard/templates/content/datatype/view/ezpage.tpl";i:9;s:63:"extension/ezdemo/design/ezdemo/templates/zone/2zoneslayout1.tpl";i:10;s:63:"extension/ezflow/design/standard/templates/parts/zone_block.tpl";i:11;s:67:"extension/ezflow/design/standard/templates/parts/zone_block_top.tpl";i:12;s:62:"extension/ezflow/design/standard/templates/block/view/view.tpl";i:13;s:70:"extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl";i:42;s:35:"design/admin2/templates/details.tpl";i:43;s:40:"design/admin2/templates/translations.tpl";i:44;s:37:"design/admin2/templates/locations.tpl";i:45;s:37:"design/admin2/templates/relations.tpl";i:46;s:44:"design/admin2/templates/navigator/google.tpl";i:47;s:36:"design/admin2/templates/ordering.tpl";i:48;s:45:"design/admin2/templates/windows_extratabs.tpl";i:49;s:36:"design/admin2/templates/children.tpl";i:50;s:45:"design/admin2/templates/children_detailed.tpl";i:51;s:50:"design/admin2/templates/navigator/alphabetical.tpl";}s:9:"cache_ttl";i:-1;}

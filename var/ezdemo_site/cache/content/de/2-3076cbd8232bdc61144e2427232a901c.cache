@@ -1,0 +1,550 @@
+a:10:{s:7:"content";s:29793:"<div class="content-view-full">
+    <div class="class-landing-page">
+
+    <div class="attribute-page">
+    <div class="zone-layout-2zoneslayout1 row">
+    <div class="span8">
+        <section class="content-view-block">
+                                        
+    <div id="address-865346aabbcc48a9839274cc554868be-4efd68496edd8184aade729b4d2ee17b">
+    <!-- BLOCK: START -->
+<div class="block-type-campaign">
+    <div class="campaign">
+        <a href="#" class="navig prev" style="opacity:0;"><span class="hide">&lt;</span></a>
+        <a href="#" class="navig next disabled"><span class="hide">&gt;</span></a>
+        <ul class="indicator disabled">
+                        <li class="selected"><span class="hide">1</span></li>
+                    </ul>
+        <ul class="images">
+        <li><!-- BOX CONTENT: START -->
+<figure class="attribute-image">
+    <img src="/hollywood/var/ezdemo_site/storage/images/getting-started/selected-features/getting-started-with-ez-publish-etna/301-1-ger-DE/Getting-Started-with-eZ-Publish-Etna_campaign.jpg" width="770" height="383" alt="Getting Started with eZ Publish Etna" />
+    <figcaption class="attribute-caption">
+                    
+<p>Welcome to eZ Publish 4.7 Etna. This release brings several new features and general improvements.</p>                <h3><a href="/hollywood/index.php/de/Getting-Started/Selected-Features/Getting-Started-with-eZ-Publish-Etna">Getting Started with eZ Publish Etna</a></h3>
+    </figcaption>
+</figure>
+<!-- BOX CONTENT: END --></li>        </ul>
+    </div>
+</div>
+<!-- BLOCK: END --><script type="text/javascript">
+
+YUI(YUI3_config).use('event', 'ezsimplegallery', function (Y) {
+    Y.on('domready', function () {
+        Y.all('.block-type-campaign').each(function () {
+            var gal = new Y.eZ.SimpleGallery({
+                gallery: this
+            });
+        });
+    });
+});
+
+</script>    </div>
+    <div class="block-separator"></div>
+                            
+    <div id="address-865346aabbcc48a9839274cc554868be-bffec84af43985679e30e6ff6d79c19b">
+    
+<div class="block-type-content-grid block-view-2_columns_2_rows">
+
+        <div class="attribute-header">
+        <h2>Mixed Content</h2>
+    </div>
+    
+    <div class="row">
+            <div class="span4">
+        <article>
+
+    <a href="/hollywood/index.php/de/Getting-Started/Selected-Features/Multivariate-Testing" class="teaser-link">
+            <div class="attribute-image">
+            
+
+    
+        
+    
+                                                                                                                                            <img src="/hollywood/var/ezdemo_site/storage/images/getting-started/selected-features/multivariate-testing/277-1-ger-DE/Multivariate-Testing_contentgrid.png" width="370" height="160"  style="border: 0px  ;" alt="Multivariate Testing" title="Multivariate Testing" />
+            
+    
+    
+            </div>
+            <div class="attribute-header">
+            <h3>Multivariate Testing</h3>
+        </div>
+    </a>
+
+    <div class="attribute-short">
+        
+<p>eZ Publish 4.7 brings multivariate&nbsp;testing as an additional tool to the editorial team to provide a more goal oriented website.&nbsp;</p>    </div>
+
+</article>
+        </div>
+
+                    <div class="span4">
+        <article>
+
+    <a href="/hollywood/index.php/de/Getting-Started/Selected-Features/Search-Result-Clustering-with-eZ-Find" class="teaser-link">
+            <div class="attribute-image">
+            
+
+    
+        
+    
+                                                                                                                                            <img src="/hollywood/var/ezdemo_site/storage/images/getting-started/selected-features/search-result-clustering-with-ez-find/253-1-ger-DE/Search-Result-Clustering-with-eZ-Find_contentgrid.png" width="370" height="160"  style="border: 0px  ;" alt="Content Clustering with eZ Find" title="Content Clustering with eZ Find" />
+            
+    
+    
+            </div>
+            <div class="attribute-header">
+            <h3>Search Result Clustering with eZ Find</h3>
+        </div>
+    </a>
+
+    <div class="attribute-short">
+        
+<p>In eZ Publish 4.7 Etna you have the possibility to generate search result clustering.&nbsp;</p>    </div>
+
+</article>
+        </div>
+
+                    </div>
+        <div class="row">
+                <div class="span4">
+        <article>
+
+    <a href="/hollywood/index.php/de/City-Shopping/Locations/New-York-City" class="teaser-link">
+            <div class="attribute-image">
+            
+
+    
+        
+    
+                                                                                                                                            <img src="/hollywood/var/ezdemo_site/storage/images/city-shopping/locations/new-york-city/451-1-ger-DE/New-York-City_contentgrid.jpg" width="370" height="160"  style="border: 0px  ;" alt="New York City" title="New York City" />
+            
+    
+    
+            </div>
+            <div class="attribute-header">
+            <h3>New York City</h3>
+        </div>
+    </a>
+
+    <div class="attribute-short">
+        
+<p>New York&nbsp;is the&nbsp;<a href="http://en.wikipedia.org/wiki/List_of_United_States_cities_by_population" title="List of United States cities by population" target="_self">most populous city</a>&nbsp;in the&nbsp;<a href="http://en.wikipedia.org/wiki/United_States" title="United States" target="_self">United States</a>&nbsp;and the center of the&nbsp;<a href="http://en.wikipedia.org/wiki/New_York_Metropolitan_Area" title="New York Metropolitan Area" target="_self">New York Metropolitan Area</a>, one of the&nbsp;<a href="http://en.wikipedia.org/wiki/List_of_metropolitan_areas_by_population" title="List of metropolitan areas by population" target="_self">most populous metropolitan areas</a>&nbsp;in the world.</p>    </div>
+
+</article>
+        </div>
+
+                    <div class="span4">
+        <article>
+
+    <a href="/hollywood/index.php/de/Travel/Information/Amazon-Jungle" class="teaser-link">
+            <div class="attribute-image">
+            
+
+    
+        
+    
+                                                                                                                                            <img src="/hollywood/var/ezdemo_site/storage/images/travel/information/amazon-jungle/382-1-ger-DE/Amazon-Jungle_contentgrid.jpg" width="370" height="160"  style="border: 0px  ;" alt="Amazon Jungle" title="Amazon Jungle" />
+            
+    
+    
+            </div>
+            <div class="attribute-header">
+            <h3>Amazon Jungle</h3>
+        </div>
+    </a>
+
+    <div class="attribute-short">
+        
+<p>The&nbsp;Amazon Rainforest, also known in English as&nbsp;Amazoniaor the&nbsp;Amazon Jungle, is a&nbsp;<a href="http://en.wikipedia.org/wiki/Tropical_and_subtropical_moist_broadleaf_forests" title="Tropical and subtropical moist broadleaf forests" target="_self">moist broadleaf forest</a>&nbsp;that covers most of the&nbsp;<a href="http://en.wikipedia.org/wiki/Amazon_Basin" title="Amazon Basin" target="_self">Amazon Basin</a>&nbsp;of South America.</p>    </div>
+
+</article>
+        </div>
+
+                </div>
+
+</div>
+    </div>
+    <div class="block-separator"></div>
+                            
+    <div id="address-865346aabbcc48a9839274cc554868be-d769ae69f693b76429a731a8ce475e23">
+    <!-- BLOCK: START -->
+<div class="block-type-gallery">
+
+    <div class="block-gallery">
+        <div class="gallery-viewer">
+            <figure>
+                <img src="/hollywood/var/ezdemo_site/storage/images/travel/peruvian-amazon/river-boat/322-1-ger-DE/River-Boat_gallery.jpg" alt="River Boat" height="390" width="770" />
+                <figcaption>
+                    <h3>
+                        <span class="counter"><span>1</span>/8</span>
+                        <a href="/hollywood/index.php/de/Travel/Peruvian-Amazon/River-Boat">River Boat</a>
+                    </h3>
+                    <div>
+                                        </div>
+                </figcaption>
+            </figure>
+        </div>
+        <div class="gallery-navigator">
+            <a href="#" class="navig prev" style="opacity:0;"><span class="hide">&lt;</span></a>
+            <a href="#" class="navig next"><span class="hide">&gt;</span></a>
+
+            <img src="/hollywood/extension/ezdemo/design/ezdemo/images/fg-selected.png" alt="Selected indicator" class="cursor" />
+            <ul class="images">
+                            <li><!-- BOX CONTENT: START -->
+<figure class="attribute-image" data-gallery-src="/hollywood/var/ezdemo_site/storage/images/travel/peruvian-amazon/river-boat/322-1-ger-DE/River-Boat_gallery.jpg" data-gallery-height="390" data-gallery-width="770" data-gallery-node-url="/hollywood/index.php/de/Travel/Peruvian-Amazon/River-Boat" title="River Boat">
+    <a href="/hollywood/index.php/de/Travel/Peruvian-Amazon/River-Boat"><img src="/hollywood/var/ezdemo_site/storage/images/travel/peruvian-amazon/river-boat/322-1-ger-DE/River-Boat_gallerythumbnail.jpg"
+         width="105" height="69"
+         alt="River Boat" /></a>
+    <figcaption class="attribute-caption">
+            </figcaption>
+</figure>
+<!-- BOX CONTENT: END --></li>
+                            <li><!-- BOX CONTENT: START -->
+<figure class="attribute-image" data-gallery-src="/hollywood/var/ezdemo_site/storage/images/travel/peruvian-amazon/amazon-side-river/317-1-ger-DE/Amazon-Side-River_gallery.jpg" data-gallery-height="390" data-gallery-width="770" data-gallery-node-url="/hollywood/index.php/de/Travel/Peruvian-Amazon/Amazon-Side-River" title="Amazon Side River">
+    <a href="/hollywood/index.php/de/Travel/Peruvian-Amazon/Amazon-Side-River"><img src="/hollywood/var/ezdemo_site/storage/images/travel/peruvian-amazon/amazon-side-river/317-1-ger-DE/Amazon-Side-River_gallerythumbnail.jpg"
+         width="105" height="69"
+         alt="Amazon Side River" /></a>
+    <figcaption class="attribute-caption">
+            </figcaption>
+</figure>
+<!-- BOX CONTENT: END --></li>
+                            <li><!-- BOX CONTENT: START -->
+<figure class="attribute-image" data-gallery-src="/hollywood/var/ezdemo_site/storage/images/travel/peruvian-amazon/aligator/352-1-ger-DE/Aligator_gallery.jpg" data-gallery-height="390" data-gallery-width="770" data-gallery-node-url="/hollywood/index.php/de/Travel/Peruvian-Amazon/Aligator" title="Aligator">
+    <a href="/hollywood/index.php/de/Travel/Peruvian-Amazon/Aligator"><img src="/hollywood/var/ezdemo_site/storage/images/travel/peruvian-amazon/aligator/352-1-ger-DE/Aligator_gallerythumbnail.jpg"
+         width="105" height="69"
+         alt="Aligator" /></a>
+    <figcaption class="attribute-caption">
+            </figcaption>
+</figure>
+<!-- BOX CONTENT: END --></li>
+                            <li><!-- BOX CONTENT: START -->
+<figure class="attribute-image" data-gallery-src="/hollywood/var/ezdemo_site/storage/images/travel/peruvian-amazon/bird-island/347-1-ger-DE/Bird-Island_gallery.jpg" data-gallery-height="390" data-gallery-width="770" data-gallery-node-url="/hollywood/index.php/de/Travel/Peruvian-Amazon/Bird-Island" title="Bird Island">
+    <a href="/hollywood/index.php/de/Travel/Peruvian-Amazon/Bird-Island"><img src="/hollywood/var/ezdemo_site/storage/images/travel/peruvian-amazon/bird-island/347-1-ger-DE/Bird-Island_gallerythumbnail.jpg"
+         width="105" height="69"
+         alt="Bird Island" /></a>
+    <figcaption class="attribute-caption">
+            </figcaption>
+</figure>
+<!-- BOX CONTENT: END --></li>
+                            <li><!-- BOX CONTENT: START -->
+<figure class="attribute-image" data-gallery-src="/hollywood/var/ezdemo_site/storage/images/travel/peruvian-amazon/heron-in-the-water/342-1-ger-DE/Heron-in-the-Water_gallery.jpg" data-gallery-height="390" data-gallery-width="770" data-gallery-node-url="/hollywood/index.php/de/Travel/Peruvian-Amazon/Heron-in-the-Water" title="Heron in the Water">
+    <a href="/hollywood/index.php/de/Travel/Peruvian-Amazon/Heron-in-the-Water"><img src="/hollywood/var/ezdemo_site/storage/images/travel/peruvian-amazon/heron-in-the-water/342-1-ger-DE/Heron-in-the-Water_gallerythumbnail.jpg"
+         width="105" height="65"
+         alt="Heron in the Water" /></a>
+    <figcaption class="attribute-caption">
+            </figcaption>
+</figure>
+<!-- BOX CONTENT: END --></li>
+                            <li><!-- BOX CONTENT: START -->
+<figure class="attribute-image" data-gallery-src="/hollywood/var/ezdemo_site/storage/images/travel/peruvian-amazon/hat-on-a-stick/337-1-ger-DE/Hat-on-a-Stick_gallery.jpg" data-gallery-height="390" data-gallery-width="770" data-gallery-node-url="/hollywood/index.php/de/Travel/Peruvian-Amazon/Hat-on-a-Stick" title="Hat on a Stick">
+    <a href="/hollywood/index.php/de/Travel/Peruvian-Amazon/Hat-on-a-Stick"><img src="/hollywood/var/ezdemo_site/storage/images/travel/peruvian-amazon/hat-on-a-stick/337-1-ger-DE/Hat-on-a-Stick_gallerythumbnail.jpg"
+         width="105" height="69"
+         alt="Hat on a Stick" /></a>
+    <figcaption class="attribute-caption">
+            </figcaption>
+</figure>
+<!-- BOX CONTENT: END --></li>
+                            <li><!-- BOX CONTENT: START -->
+<figure class="attribute-image" data-gallery-src="/hollywood/var/ezdemo_site/storage/images/travel/peruvian-amazon/turtles/332-1-ger-DE/Turtles_gallery.jpg" data-gallery-height="390" data-gallery-width="770" data-gallery-node-url="/hollywood/index.php/de/Travel/Peruvian-Amazon/Turtles" title="Turtles">
+    <a href="/hollywood/index.php/de/Travel/Peruvian-Amazon/Turtles"><img src="/hollywood/var/ezdemo_site/storage/images/travel/peruvian-amazon/turtles/332-1-ger-DE/Turtles_gallerythumbnail.jpg"
+         width="105" height="69"
+         alt="Turtles" /></a>
+    <figcaption class="attribute-caption">
+            </figcaption>
+</figure>
+<!-- BOX CONTENT: END --></li>
+                            <li><!-- BOX CONTENT: START -->
+<figure class="attribute-image" data-gallery-src="/hollywood/var/ezdemo_site/storage/images/travel/peruvian-amazon/flying-bird/327-1-ger-DE/Flying-Bird_gallery.jpg" data-gallery-height="390" data-gallery-width="770" data-gallery-node-url="/hollywood/index.php/de/Travel/Peruvian-Amazon/Flying-Bird" title="Flying Bird">
+    <a href="/hollywood/index.php/de/Travel/Peruvian-Amazon/Flying-Bird"><img src="/hollywood/var/ezdemo_site/storage/images/travel/peruvian-amazon/flying-bird/327-1-ger-DE/Flying-Bird_gallerythumbnail.jpg"
+         width="105" height="69"
+         alt="Flying Bird" /></a>
+    <figcaption class="attribute-caption">
+            </figcaption>
+</figure>
+<!-- BOX CONTENT: END --></li>
+                        </ul>
+        </div>
+
+    </div>
+        <script type="text/javascript">
+    
+
+    YUI(YUI3_config).use('ezgallery', 'event', function (Y) {
+        Y.on('domready', function () {
+            Y.all('.block-type-gallery').each(function () {
+                var g = new Y.eZ.Gallery({
+                    title: 'h3 a',
+                    caption: 'figcaption div',
+                    autoFixSizes: false,
+                    autoScrollOnSelect: false,
+                    navigator: {
+                        gallery: this.one('.block-gallery')
+                    },
+                    initFunc: function () {
+                        var imgs = this.navigator.getImages();
+
+                        setTimeout(function () {
+                            imgs.each(function(elem) {
+                                (new Image).src = elem.getAttribute('data-gallery-src');
+                            });
+                        }, 0);
+                    },
+                    updateFunc: function (item) {
+                        var node = item.imageNode,
+                            t = this.container.one(this.conf.title),
+                            img = this.container.one(this.conf.image),
+                            cap = this.container.one(this.conf.caption);
+                            c = this.container.one(this.conf.counter);
+
+                        img.setAttribute('src', node.getAttribute('data-gallery-src'));
+                        img.setAttribute('height', node.getAttribute('data-gallery-height'));
+                        img.setAttribute('width', node.getAttribute('data-gallery-width'));
+                        img.setAttribute('alt', node.get('title'));
+                        t.setContent(node.get('title'));
+                        t.setAttribute('href', node.getAttribute('data-gallery-node-url'));
+                        c.setContent(item.index + 1);
+                        cap.setContent(node.one('figcaption').getContent());
+                    }
+                });
+            });
+        });
+    });
+    
+    
+    </script>
+    </div>
+<!-- BLOCK: END -->
+    </div>
+    <div class="block-separator"></div>
+                                </section>
+    </div>
+    <div class="span4">
+        <aside>
+            <section class="content-view-block content-view-aside">
+                                                    
+    <div id="address-f742abffba08fc849b6e80dec769a74c-cd58c813f7463484f22a2168a44cdcc4">
+    
+<div class="block-type-highlighted-item block-view-default">
+    <article class="highlighted">
+        <a href="/hollywood/index.php/de/Getting-Started/Selected-Features/Improved-Online-Analytics" class="teaser-link">
+                    <div class="attribute-image">
+                
+
+    
+        
+    
+                                                                                                                                            <img src="/hollywood/var/ezdemo_site/storage/images/getting-started/selected-features/improved-online-analytics/289-1-ger-DE/Improved-Online-Analytics_contentgrid.png" width="370" height="160"  style="border: 0px  ;" alt="Improved Online Analytics" title="Improved Online Analytics" />
+            
+    
+    
+                </div>
+                    <div class="attribute-header">
+                <h3>Improved Online Analytics</h3>
+            </div>
+            <div class="attribute-short">
+                
+<p>With a tighter and improved integration with Odoscope you get better analysis of differentiated user behavior.</p>            </div>
+        </a>
+    </article>
+</div>
+    </div>
+    <div class="block-separator"></div>
+                                    
+    <div id="address-f742abffba08fc849b6e80dec769a74c-9481d2b1810c928ded55e94b0ae13647">
+    
+<div class="block-type-content-grid block-view-default">
+
+        <div class="attribute-header">
+        <h2>Main Items</h2>
+    </div>
+    
+            <article class="selected-products">
+    <div class="attribute-image">
+        
+
+    
+        
+    
+                                                                                                                                    <a href="/hollywood/index.php/de/City-Shopping/Products/Street-Crossing">        <img src="/hollywood/var/ezdemo_site/storage/images/city-shopping/products/street-crossing/435-1-ger-DE/Street-Crossing_productthumbnail.jpg" width="170" height="102"  style="border: 0px  ;" alt="Old street crossing." title="Old street crossing." />
+        </a>    
+    
+    
+        </div>
+    <div class="product-info">
+        <div class="attribute-header">
+            <a href="/hollywood/index.php/de/City-Shopping/Products/Street-Crossing" class="teaser-link">
+                <h3>Street Crossing</h3>
+            </a>
+        </div>
+        <ul class="breadcrumb">
+                        <li>
+                <a href="/hollywood/index.php/de">Home</a>
+                            </li>
+                            <span class="divider">»</span>
+                            <li>
+                <a href="/hollywood/index.php/de/City-Shopping">City Shopping</a>
+                            </li>
+                            <span class="divider">»</span>
+                            <li>
+                <a href="/hollywood/index.php/de/City-Shopping/Products">Products</a>
+                            </li>
+                    </ul>
+        <form method="post" action="/hollywood/index.php/de/content/action">
+            <fieldset>
+                <div class="item-price">
+                    € 79,00
+                </div>
+                <div class="item-buying-action form-inline">
+                    <label>
+                        <span class="hidden">Amount</span>
+                        <input type="text" name="Quantity" />
+                    </label>
+                    <button class="btn btn-warning" type="submit" name="ActionAddToBasket">
+                        Buy
+                    </button>
+                </div>
+            </fieldset>
+            <input type="hidden" name="ContentNodeID" value="91" />
+            <input type="hidden" name="ContentObjectID" value="89" />
+            <input type="hidden" name="ViewMode" value="full" />
+        </form>
+    </div>
+</article>
+            <article class="selected-products">
+    <div class="attribute-image">
+        
+
+    
+        
+    
+                                                                                                                                    <a href="/hollywood/index.php/de/City-Shopping/Products/City-View">        <img src="/hollywood/var/ezdemo_site/storage/images/city-shopping/products/city-view/424-1-ger-DE/City-View_productthumbnail.jpg" width="170" height="127"  style="border: 0px  ;" alt="City View" title="City View" />
+        </a>    
+    
+    
+        </div>
+    <div class="product-info">
+        <div class="attribute-header">
+            <a href="/hollywood/index.php/de/City-Shopping/Products/City-View" class="teaser-link">
+                <h3>City View</h3>
+            </a>
+        </div>
+        <ul class="breadcrumb">
+                        <li>
+                <a href="/hollywood/index.php/de">Home</a>
+                            </li>
+                            <span class="divider">»</span>
+                            <li>
+                <a href="/hollywood/index.php/de/City-Shopping">City Shopping</a>
+                            </li>
+                            <span class="divider">»</span>
+                            <li>
+                <a href="/hollywood/index.php/de/City-Shopping/Products">Products</a>
+                            </li>
+                    </ul>
+        <form method="post" action="/hollywood/index.php/de/content/action">
+            <fieldset>
+                <div class="item-price">
+                    € 256,00
+                </div>
+                <div class="item-buying-action form-inline">
+                    <label>
+                        <span class="hidden">Amount</span>
+                        <input type="text" name="Quantity" />
+                    </label>
+                    <button class="btn btn-warning" type="submit" name="ActionAddToBasket">
+                        Buy
+                    </button>
+                </div>
+            </fieldset>
+            <input type="hidden" name="ContentNodeID" value="90" />
+            <input type="hidden" name="ContentObjectID" value="88" />
+            <input type="hidden" name="ViewMode" value="full" />
+        </form>
+    </div>
+</article>
+    
+</div>
+    </div>
+    <div class="block-separator"></div>
+                                    
+    <div id="address-f742abffba08fc849b6e80dec769a74c-b0d7b1fae15381576e13e5bd1480f555">
+    
+<div class="block-type-feed-reader item-list">
+    <div class="attribute-header">
+        <h2>
+            <a href="http://ez.no/" title="eZ News">eZ News</a>
+        </h2>
+    </div>
+    <article>
+        <ul>
+                    <li>
+                <a href="http://ez.no/About-eZ/Events-News/News/App-Web-new-multichannel-delivery-extension" title="New multichannel delivery extension App&amp;Web for eZ Publish Platform">New multichannel delivery extension App&amp;Web for eZ Publish Platform</a>
+            </li>
+                    <li>
+                <a href="http://ez.no/About-eZ/Events-News/News/Press-Release-eZ-Publish-Platform-5.1-Released" title="Press Release: eZ Publish Platform 5.1 Released">Press Release: eZ Publish Platform 5.1 Released</a>
+            </li>
+                    <li>
+                <a href="http://ez.no/About-eZ/Events-News/News/eZ-Brightcove-Video-Cloud-extension-for-eZ-Publish" title="eZ Brightcove Video Cloud extension for eZ Publish">eZ Brightcove Video Cloud extension for eZ Publish</a>
+            </li>
+                    <li>
+                <a href="http://ez.no/About-eZ/Events-News/News/eZ-Live-Viewer-2-unveils-new-simple-to-use-real-time-web-analytics-solution-for-content-rich-websites" title="eZ Live Viewer 2 unveils new simple to use real-time web analytics solution for content rich websites">eZ Live Viewer 2 unveils new simple to use real-time web analytics solution for content rich websites</a>
+            </li>
+                    <li>
+                <a href="http://ez.no/About-eZ/Events-News/News/eZ-Systems-announces-management-change" title="eZ Systems announces management change">eZ Systems announces management change</a>
+            </li>
+                </ul>
+    </article>
+</div>    </div>
+    <div class="block-separator"></div>
+                                    
+    <div id="address-f742abffba08fc849b6e80dec769a74c-530f34a56860389349bd37e74bc095a7">
+    
+
+
+<script>
+    _V_.options.flash.swf = "/hollywood/extension/ezdemo/design/ezdemo/flash/video-js.swf"
+</script>
+
+<div class="block-type-video">
+    <div class="attribute-header">
+        <h2>Selected Video</h2>
+    </div>
+    <article>
+        <div class="attribute-video">
+            <video id="video_530f34a56860389349bd37e74bc095a7" class="video-js vjs-default-skin" controls preload="auto" width="330" height="264" poster="" data-setup="{}">
+              <source src="http://localhost:8080/hollywood/index.php/de/content/download/80/357/Piraya small – Mobilnett.m4v" type="video/mp4" />
+            </video>
+        </div>
+
+        <div class="attribute-header">
+            <h3>Piranha Fishing</h3>
+        </div>
+
+        <div class="attribute-short">
+            
+        </div>
+    </article>
+</div>    </div>
+    <div class="block-separator"></div>
+                                    
+    <div id="address-f742abffba08fc849b6e80dec769a74c-27d176fb3baf2ab9dea2b1f98270e701">
+    <div class="block-type-tagcloud block-view-default">
+    <div class="attribute-header">
+        <h2>Tags</h2>
+    </div>
+    <article>
+                    <a href="/hollywood/index.php/de/content/keyword/Aligator" style="font-size: 100%" title="1 objects tagged with 'Aligator'">Aligator</a> <a href="/hollywood/index.php/de/content/keyword/Amazon" style="font-size: 100%" title="1 objects tagged with 'Amazon'">Amazon</a> <a href="/hollywood/index.php/de/content/keyword/Amazon%20Jungle" style="font-size: 100%" title="1 objects tagged with 'Amazon Jungle'">Amazon Jungle</a> <a href="/hollywood/index.php/de/content/keyword/Birds" style="font-size: 100%" title="1 objects tagged with 'Birds'">Birds</a> <a href="/hollywood/index.php/de/content/keyword/Blog%20Post" style="font-size: 100%" title="1 objects tagged with 'Blog Post'">Blog Post</a> <a href="/hollywood/index.php/de/content/keyword/Content%20Clustering" style="font-size: 100%" title="1 objects tagged with 'Content Clustering'">Content Clustering</a> <a href="/hollywood/index.php/de/content/keyword/eZ%20Find" style="font-size: 100%" title="1 objects tagged with 'eZ Find'">eZ Find</a> <a href="/hollywood/index.php/de/content/keyword/eZ%20Publish" style="font-size: 100%" title="1 objects tagged with 'eZ Publish'">eZ Publish</a> <a href="/hollywood/index.php/de/content/keyword/Flying%20Bird" style="font-size: 100%" title="1 objects tagged with 'Flying Bird'">Flying Bird</a> <a href="/hollywood/index.php/de/content/keyword/Hat" style="font-size: 100%" title="1 objects tagged with 'Hat'">Hat</a> <a href="/hollywood/index.php/de/content/keyword/Heron" style="font-size: 100%" title="1 objects tagged with 'Heron'">Heron</a> <a href="/hollywood/index.php/de/content/keyword/Iquitos" style="font-size: 100%" title="1 objects tagged with 'Iquitos'">Iquitos</a> <a href="/hollywood/index.php/de/content/keyword/NYC" style="font-size: 166.66666666667%" title="3 objects tagged with 'NYC'">NYC</a> <a href="/hollywood/index.php/de/content/keyword/Peru" style="font-size: 133.33333333333%" title="2 objects tagged with 'Peru'">Peru</a> <a href="/hollywood/index.php/de/content/keyword/River" style="font-size: 100%" title="1 objects tagged with 'River'">River</a> <a href="/hollywood/index.php/de/content/keyword/River%20Boat" style="font-size: 100%" title="1 objects tagged with 'River Boat'">River Boat</a> <a href="/hollywood/index.php/de/content/keyword/Shopping" style="font-size: 166.66666666667%" title="3 objects tagged with 'Shopping'">Shopping</a> <a href="/hollywood/index.php/de/content/keyword/Shopping%20New%20York" style="font-size: 100%" title="1 objects tagged with 'Shopping New York'">Shopping New York</a> <a href="/hollywood/index.php/de/content/keyword/Social" style="font-size: 100%" title="1 objects tagged with 'Social'">Social</a> <a href="/hollywood/index.php/de/content/keyword/Taxi" style="font-size: 100%" title="1 objects tagged with 'Taxi'">Taxi</a> <a href="/hollywood/index.php/de/content/keyword/Travel" style="font-size: 200%" title="4 objects tagged with 'Travel'">Travel</a> <a href="/hollywood/index.php/de/content/keyword/Turtles" style="font-size: 100%" title="1 objects tagged with 'Turtles'">Turtles</a> 
+            </article>
+</div>
+    </div>
+    <div class="block-separator"></div>
+                                            </section>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    </div>
+</div>
+";s:15:"view_parameters";a:5:{s:6:"offset";b:0;s:4:"year";b:0;s:5:"month";b:0;s:3:"day";b:0;s:10:"namefilter";b:0;}s:4:"path";a:1:{i:0;a:4:{s:4:"text";s:4:"Home";s:3:"url";b:0;s:9:"url_alias";b:0;s:7:"node_id";s:1:"2";}}s:10:"title_path";a:1:{i:0;a:3:{s:4:"text";s:4:"Home";s:3:"url";b:0;s:9:"url_alias";b:0;}}s:10:"section_id";s:1:"1";s:7:"node_id";s:1:"2";s:15:"navigation_part";s:23:"ezcontentnavigationpart";s:12:"content_info";a:24:{s:9:"object_id";s:2:"57";s:7:"node_id";s:1:"2";s:14:"parent_node_id";s:1:"1";s:8:"class_id";s:2:"21";s:16:"class_identifier";s:12:"landing_page";s:9:"remote_id";s:32:"8a9c9c761004866fb458d89910f52bee";s:14:"node_remote_id";s:32:"f3e90596361e31d496d4026eb624c983";s:6:"offset";b:0;s:8:"viewmode";s:4:"full";s:26:"navigation_part_identifier";s:23:"ezcontentnavigationpart";s:10:"node_depth";s:1:"1";s:9:"url_alias";s:0:"";s:16:"current_language";s:6:"ger-DE";s:13:"language_mask";s:1:"3";s:12:"main_node_id";s:1:"2";s:19:"main_node_url_alias";b:0;s:19:"persistent_variable";a:2:{s:9:"css_files";a:1:{i:0;s:9:"video.css";}s:8:"js_files";a:1:{i:0;s:8:"video.js";}}s:11:"class_group";b:0;s:5:"state";a:1:{i:2;s:1:"1";}s:16:"state_identifier";a:1:{i:0;s:18:"ez_lock/not_locked";}s:15:"parent_class_id";s:1:"1";s:23:"parent_class_identifier";s:6:"folder";s:21:"parent_node_remote_id";s:32:"629709ba256fe317c3ddcee35453a96a";s:23:"parent_object_remote_id";s:32:"0ff2bc7ab7c4e8aa21bd0c02cb289187";}s:13:"template_list";a:2:{i:0;s:62:"extension/ezdemo/design/ezdemo/templates/tagcloud/tagcloud.tpl";i:1;s:70:"extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl";}s:9:"cache_ttl";i:-1;}
