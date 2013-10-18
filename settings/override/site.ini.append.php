@@ -8,6 +8,7 @@ ActiveExtensions[]=ezautosave
 ActiveExtensions[]=ezjscore
 ActiveExtensions[]=ezstarrating
 ActiveExtensions[]=ezgmaplocation
+ActiveExtensions[]=hollywood
 ActiveExtensions[]=ezdemo
 ActiveExtensions[]=ezwt
 ActiveExtensions[]=ezflow
@@ -21,12 +22,12 @@ ActiveExtensions[]=ezprestapiprovider
 SessionNameHandler=custom
 
 [SiteSettings]
-DefaultAccess=ger
+DefaultAccess=de
 SiteList[]
 SiteList[]=de
-SiteList[]=ger
+SiteList[]=dev
 SiteList[]=site_admin
-RootNodeDepth=1
+#RootNodeDepth=1
 
 [UserSettings]
 LogoutRedirect=/
@@ -35,7 +36,7 @@ LogoutRedirect=/
 CheckValidity=false
 AvailableSiteAccessList[]
 AvailableSiteAccessList[]=de
-AvailableSiteAccessList[]=ger
+AvailableSiteAccessList[]=dev
 AvailableSiteAccessList[]=site_admin
 MatchOrder=uri
 HostMatchMapItems[]

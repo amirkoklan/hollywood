@@ -17,7 +17,7 @@ EmailReceiver=
 SessionNamePerSiteAccess=disabled
 
 [SiteSettings]
-SiteName=eZ Publish Demo Design
+SiteName=Pizza HollyWood
 SiteURL=localhost:8080/hollywood/index.php
 LoginPage=embedded
 AdditionalLoginFormActionURL=http://localhost:8080/hollywood/index.php/site_admin/user/login
@@ -29,13 +29,14 @@ RegistrationEmail=
 RequireUserLogin=false
 RelatedSiteAccessList[]
 RelatedSiteAccessList[]=de
-RelatedSiteAccessList[]=ger
+RelatedSiteAccessList[]=dev
 RelatedSiteAccessList[]=site_admin
 ShowHiddenNodes=false
 
 [DesignSettings]
-SiteDesign=ezdemo
+SiteDesign=hollywood
 AdditionalSiteDesignList[]
+AdditionalSiteDesignList[]=ezdemo
 AdditionalSiteDesignList[]=ezflow
 AdditionalSiteDesignList[]=base
 AdditionalSiteDesignList[]=standard
@@ -57,4 +58,11 @@ TranslationList=
 [MailSettings]
 AdminEmail=amirkoklan@gmail.com
 EmailSender=
+
+[ShopSettings]
+ClearBasketOnCheckout=enabled
+ClearBasketOnLogout=enabled
+RedirectAfterAddToBasket=reload
+SendOrderEmail=enabled
+
 */ ?>

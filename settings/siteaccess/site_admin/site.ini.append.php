@@ -25,7 +25,7 @@ RegistrationEmail=
 [SiteAccessSettings]
 RequireUserLogin=true
 RelatedSiteAccessList[]=de
-RelatedSiteAccessList[]=ger
+RelatedSiteAccessList[]=dev
 RelatedSiteAccessList[]=site_admin
 ShowHiddenNodes=true
 
