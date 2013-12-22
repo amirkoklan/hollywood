@@ -10,6 +10,27 @@ AliasList[]=contentgrid
 AliasList[]=gallery
 AliasList[]=galleryfull
 AliasList[]=imagefull
+AliasList[]=banner
+AliasList[]=product_view
+AliasList[]=section_view
+
+[section_view]
+Reference=original
+Filters[]=geometry/scalewidth=940
+#Filter[]=geometry/scaleheight=300
+#Filters[]=geometry/crop=906;300;0;0
+
+[product_view]
+Reference=original
+Filters[]=geometry/scalewidth=355
+Filter[]=geometry/scaleheight=365
+Filters[]=geometry/crop=355;365;0;0
+
+[banner]
+Reference=original
+Filters[]=geometry/scalewidth=635
+Filter[]=geometry/scaleheight=243
+Filters[]=geometry/crop=635;243;0;0
 
 [campaign]
 Reference=original

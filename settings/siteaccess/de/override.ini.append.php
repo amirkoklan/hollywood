@@ -350,6 +350,24 @@ MatchFile=full/product.tpl
 Subdir=templates
 Match[class_identifier]=product
 
+[full_section]
+Source=node/view/full.tpl
+MatchFile=full/section.tpl
+Subdir=templates
+Match[class_identifier]=section
+
+[line_food]
+Source=node/view/line.tpl
+MatchFile=line/food.tpl
+Subdir=templates
+Match[class_identifier]=food
+
+[link_product]
+Source=node/view/link.tpl
+MatchFile=link/product.tpl
+Subdir=templates
+Match[class_identifier]=product
+
 [full_quicktime]
 Source=node/view/full.tpl
 MatchFile=full/quicktime.tpl

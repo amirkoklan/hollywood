@@ -27,18 +27,24 @@ RegistrationEmail=
 
 [SiteAccessSettings]
 RequireUserLogin=false
+RelatedSiteAccessList[]
 RelatedSiteAccessList[]=de
+RelatedSiteAccessList[]=ger
 RelatedSiteAccessList[]=site_admin
 ShowHiddenNodes=false
 
 [DesignSettings]
-SiteDesign=ezdemo_site
+SiteDesign=ezdemo
+AdditionalSiteDesignList[]
+AdditionalSiteDesignList[]=ezflow
 AdditionalSiteDesignList[]=base
+AdditionalSiteDesignList[]=standard
 
 [RegionalSettings]
 Locale=ger-DE
 ContentObjectLocale=ger-DE
 ShowUntranslatedObjects=disabled
+SiteLanguageList[]
 SiteLanguageList[]=ger-DE
 TextTranslation=enabled
 

@@ -111,8 +111,17 @@ if ( $http->hasPostVariable( "RemoveProductItemButton" ) )
             $module->redirectTo( $module->functionURI( "basket" ) . "/(error)/invaliditemcount" );
             return;
         }
-
-        $module->redirectTo( $module->functionURI( "basket" ) . "/" );
+        
+        //
+        //$module->redirectTo( $module->functionURI( "basket" ) . "/" );
+        //This Part has been changed by Amir Koklan in order to let the person delete the Item and stays in the same page
+        $ini = eZINI::instance();
+        if ( $ini->variable( 'ShopSettings', 'RedirectAfterAddToBasket' ) == 'reload' )
+            $module->redirectTo( $http->sessionVariable( "FromPage" ) );
+        else
+            $module->redirectTo( "/shop/basket/" );
+        //Untill Here
+        
         return;
     }
 }

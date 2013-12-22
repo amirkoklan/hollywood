@@ -17,6 +17,7 @@
         <form method="post" action={"content/action"|ezurl}>
 
         <div class="row">
+            <div class="span9">
             <div class="span4">
                 <div class="attribute-sender-name">
                     {attribute_view_gui attribute=$node.data_map.sender_name css_class='span4' label=$node.data_map.sender_name.contentclass_attribute.name}
@@ -27,10 +28,11 @@
                     {attribute_view_gui attribute=$node.data_map.email css_class='span4' label=$node.data_map.email.contentclass_attribute.name}
                 </div>
             </div>
+            </div>
         </div>
 
         <div class="row">
-            <div class="span8">
+            <div class="span9">
                 <div class="attribute-subject">
                     {attribute_view_gui attribute=$node.data_map.subject css_class='span8' label=$node.data_map.subject.contentclass_attribute.name}
                 </div>
@@ -38,7 +40,7 @@
         </div>
 
         <div class="row">
-            <div class="span8">
+            <div class="span9">
                 <div class="attribute-subject">
                     {attribute_view_gui attribute=$node.data_map.message css_class='span8' label=$node.data_map.message.contentclass_attribute.name}
                 </div>
@@ -55,4 +57,3 @@
 
     </article>
 </section>
-

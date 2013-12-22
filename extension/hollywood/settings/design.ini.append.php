@@ -15,5 +15,6 @@ FrontendJavaScriptList[]=ezflyout.js
 FrontendJavaScriptList[]=ezsimplegallery.js
 FrontendJavaScriptList[]=ezgallerynavigator.js
 FrontendJavaScriptList[]=ezgallery.js
-
+FrontendJavaScriptList[]=jquery-1.8.2.js
+FrontendJavaScriptList[]=jquery-ui.js
 */ ?>

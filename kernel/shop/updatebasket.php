@@ -49,7 +49,14 @@ switch( $operationResult['status'] )
        }
     }break;
 }
+//This Line has been commented.
+//$module->redirectTo( '/shop/basket/' );
 
-$module->redirectTo( '/shop/basket/' );
-
+//This lines have been added in order to give possibility to stay on the same page after refresh or removing an object.
+$ini = eZINI::instance();
+if ( $ini->variable( 'ShopSettings', 'RedirectAfterAddToBasket' ) == 'reload' )
+    $module->redirectTo( $http->sessionVariable( "FromPage" ) );
+else
+    $module->redirectTo( "/shop/basket/" );
+//Until Here.
 ?>

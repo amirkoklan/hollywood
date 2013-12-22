@@ -363,7 +363,7 @@ Subdir=templates
 Match[class_identifier]=food
 
 [link_product]
-Source=node/view/line.tpl
+Source=node/view/link.tpl
 MatchFile=link/product.tpl
 Subdir=templates
 Match[class_identifier]=product

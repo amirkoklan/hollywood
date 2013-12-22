@@ -8,8 +8,10 @@ AvailableMenuArray[]=DoubleTop
 AvailableMenuArray[]=LeftTop
 
 [SelectedMenu]
-CurrentMenu=DoubleTop
-TopMenu=double_top
+#CurrentMenu=DoubleTop
+CurrentMenu=TopOnly
+#TopMenu=double_top
+TopMenu=flat_top
 LeftMenu=
 
 [TopOnly]
@@ -38,9 +40,10 @@ LeftMenu=flat_left
 
 [MenuContentSettings]
 TopIdentifierList[]
-TopIdentifierList[]=folder
-TopIdentifierList[]=feedback_form
+#TopIdentifierList[]=folder
+#TopIdentifierList[]=feedback_form
+TopIdentifierList[]=section
 LeftIdentifierList[]
-LeftIdentifierList[]=folder
-LeftIdentifierList[]=feedback_form
+#LeftIdentifierList[]=folder
+#LeftIdentifierList[]=feedback_form
 */ ?>

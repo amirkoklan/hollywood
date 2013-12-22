@@ -4,7 +4,7 @@
 
 <section class="content-view-full">
     <article class="class-article row">
-        <div class="span8">
+        <div class="span9">
             <div class="attribute-header">
                 <h1>{$node.data_map.title.content|wash()}</h1>
             </div>
@@ -52,7 +52,7 @@
                 {attribute_view_gui attribute=$node.data_map.tags}
             </div>
 
-            <div class="attribute-star-rating">
+           {* <div class="attribute-star-rating">
                 {attribute_view_gui attribute=$node.data_map.star_rating}
             </div>
 
@@ -62,7 +62,7 @@
 
             <div class="attribute-comments">
                 {attribute_view_gui attribute=$node.data_map.comments}
-            </div>
+            </div>*}
 
         {def $tipafriend_access=fetch( 'user', 'has_access_to', hash( 'module', 'content', 'function', 'tipafriend' ) )}
         {if and( ezmodule( 'content/tipafriend' ), $tipafriend_access )}
@@ -89,4 +89,3 @@
         </div>
     </article>
 </section>
-

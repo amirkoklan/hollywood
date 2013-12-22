@@ -1,6 +1,7 @@
 <?php /*
 
 [MenuContentSettings]
+TopIdentifierList[]
 #TopIdentifierList[]=folder
 #TopIdentifierList[]=feedback_form
 #TopIdentifierList[]=gallery
@@ -13,31 +14,31 @@
 #TopIdentifierList[]=landing_page
 TopIdentifierList[]=section
 
-LeftIdentifierList[]=folder
-LeftIdentifierList[]=feedback_form
-LeftIdentifierList[]=gallery
-LeftIdentifierList[]=forum
-LeftIdentifierList[]=wiki_page
-LeftIdentifierList[]=forums
-LeftIdentifierList[]=event_calendar
-LeftIdentifierList[]=link
-LeftIdentifierList[]=blog
-LeftIdentifierList[]=landing_page
+#LeftIdentifierList[]=folder
+#LeftIdentifierList[]=feedback_form
+#LeftIdentifierList[]=gallery
+#LeftIdentifierList[]=forum
+#LeftIdentifierList[]=wiki_page
+#LeftIdentifierList[]=forums
+#LeftIdentifierList[]=event_calendar
+#LeftIdentifierList[]=link
+#LeftIdentifierList[]=blog
+#LeftIdentifierList[]=landing_page
 
-RightIdentifierList[]=folder
-RightIdentifierList[]=feedback_form
-RightIdentifierList[]=gallery
-RightIdentifierList[]=forum
-RightIdentifierList[]=wiki_page
-RightIdentifierList[]=forums
-RightIdentifierList[]=event_calendar
-RightIdentifierList[]=link
-RightIdentifierList[]=blog
-RightIdentifierList[]=landing_page
+#RightIdentifierList[]=folder
+#RightIdentifierList[]=feedback_form
+#RightIdentifierList[]=gallery
+#RightIdentifierList[]=forum
+#RightIdentifierList[]=wiki_page
+#RightIdentifierList[]=forums
+#RightIdentifierList[]=event_calendar
+#RightIdentifierList[]=link
+#RightIdentifierList[]=blog
+#RightIdentifierList[]=landing_page
 
 # Classes to use in extra menu (infobox)
 #ExtraIdentifierList[]
-ExtraIdentifierList[]=infobox
+#ExtraIdentifierList[]=infobox
 
 # Control extra menu visibility depening on
 # available subitems for current node
@@ -52,7 +53,6 @@ ExtraMenuSubitemsCheck=disabled
 HideLeftMenuClasses[]=landing_page
 HideLeftMenuClasses[]=blog
 HideLeftMenuClasses[]=blog_post
-
 # true or false, while set to false menus can be hide in certain cases
 AlwaysAvailable=false
 
